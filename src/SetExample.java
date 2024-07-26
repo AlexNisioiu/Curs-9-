@@ -23,7 +23,9 @@ public class SetExample {
         myOrderedSet.add(1);
         myOrderedSet.add(2);
 
-        System.out.println(myOrderedSet);
+
+
+
 
 
 

@@ -10,5 +10,6 @@ public class MapExample {
 
 
         System.out.println(dictionar);
+
     }
 }
